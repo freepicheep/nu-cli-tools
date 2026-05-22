@@ -1,10 +1,10 @@
 {
     package: {
         name: "nu-cli-tools"
-        version: "0.1.0"
+        version: "1.1.0"
         description: ""
         license: ""
         authors: ["Friedrich Stoltzfus"]
-        nu-version: ">=0.110.0"
+        nu-version: ">=0.112.2"
     }
 }
